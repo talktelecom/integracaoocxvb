@@ -1,0 +1,37 @@
+TalkTelecom - Document Log of File : D:\Projetos\VB6\OCX Delphi Virtua\Ocx3.1.0\Atendimento_Seco3.0.3\LogAcao03072017.Log Create : 03/07/2017 12:00:00 - Version : 3.1.0
+-------------------------------------------------------------------------------------------------------------------------------------------
+03/07/2017 12:00:00 EXEC ação FlgStatusGeral 
+Aguarde Conexão 177.38.216.72...
+03/07/2017 12:00:16 EXEC ação FlgStatusGeral 
+Vazio 
+03/07/2017 12:00:16 EXEC ação OnOff 
+0,,,0,0,0,0,
+&Login
+
+03/07/2017 12:00:16 vCat_Discagem=0 
+03/07/2017 12:01:46 EXEC ação FlgStatusGeral 
+Aguarde Conexão 177.38.216.72...
+03/07/2017 12:02:01 EXEC ação FlgStatusGeral 
+Vazio 
+03/07/2017 12:02:01 EXEC ação OnOff 
+0,,,0,0,0,0,
+&Login
+
+03/07/2017 12:02:01 vCat_Discagem=0 
+03/07/2017 12:02:27 EXEC ação 
+03/07/2017 12:02:27 Form1.met_Logon_Automatico 
+03/07/2017 12:02:29 EXEC ação FlgStatusGeral 
+Aguarde Conexão 177.38.216.72...
+03/07/2017 12:02:45 EXEC ação FlgStatusGeral 
+Aguarde Conexão 177.38.216.72...
+03/07/2017 12:03:01 EXEC ação FlgStatusGeral 
+Vazio 
+03/07/2017 12:03:01 EXEC ação OnOff 
+0,,,0,0,0,0,
+&Login
+
+03/07/2017 12:03:01 vCat_Discagem=0 
+03/07/2017 13:40:19 EXEC ação 
+03/07/2017 13:40:19 Form1.met_Logon_Automatico 
+03/07/2017 13:40:20 EXEC ação FlgStatusGeral 
+Aguarde Conexão 177.38.216.72...
